@@ -1,0 +1,297 @@
+E:/Datasets/Datasets2/922/922_132291_000005_000000.wav|922|EN|feldman had set his legs the problem of heading for the great spaceport and escape from earth, and he let them take him without further guidance.
+E:/Datasets/Datasets2/922/922_132291_000005_000001.wav|922|EN|his mind was wrapped up in a whirl of the past-his past and that of the whole planet.
+E:/Datasets/Datasets2/922/922_132291_000006_000001.wav|922|EN|throughout history, some men had sought the ideal, and most had called it freedom.
+E:/Datasets/Datasets2/922/922_132291_000006_000002.wav|922|EN|only fools expected absolute freedom, but wise men dreamed up many systems of relative freedom, including democracy. they had tried that in america, as the last fling of the dream.
+E:/Datasets/Datasets2/922/922_132291_000007_000000.wav|922|EN|the men who drew the constitution had been pretty practical dreamers. they came to their task after a bitter war and a worse period of wild chaos, and they had learned where idealism stopped and idiocy began. they set up a republic with all the elements of democracy that they considered safe.
+E:/Datasets/Datasets2/922/922_132291_000007_000002.wav|922|EN|but the men who followed the framers of the new plan were a different sort, without the knowledge of practical limits.
+E:/Datasets/Datasets2/922/922_132291_000008_000000.wav|922|EN|the privileges their ancestors had earned in blood and care became automatic rights.
+E:/Datasets/Datasets2/922/922_132291_000008_000001.wav|922|EN|practical men tried to explain that there were no such rights-that each generation had to pay for its rights with responsibility.
+E:/Datasets/Datasets2/922/922_132291_000008_000003.wav|922|EN|people wanted to hear about rights, not about duties.
+E:/Datasets/Datasets2/922/922_132291_000010_000000.wav|922|EN|they got the vote extended to everyone.
+E:/Datasets/Datasets2/922/922_132291_000010_000001.wav|922|EN|the man on subsidy or public dole could vote to demand more.
+E:/Datasets/Datasets2/922/922_132291_000010_000002.wav|922|EN|the man who read of nothing beyond sex crimes could vote on the great political issues of the world.
+E:/Datasets/Datasets2/922/922_132291_000010_000004.wav|922|EN|in fact, he was assured that voting alone was enough to make him a fine and noble citizen.
+E:/Datasets/Datasets2/922/922_132291_000010_000006.wav|922|EN|he became a great man by listing his unthought, hungry desire for someone to take care of him without responsibility.
+E:/Datasets/Datasets2/922/922_132291_000010_000007.wav|922|EN|so he went out and voted for the man who promised him most, or who looked most like what his limited dreams felt to be a father image or son image or hero image.
+E:/Datasets/Datasets2/922/922_132291_000010_000008.wav|922|EN|he never bothered later to see how the men he'd elected had handled the jobs he had given them.
+E:/Datasets/Datasets2/922/922_132291_000011_000000.wav|922|EN|someone had to look, of course, and someone did.
+E:/Datasets/Datasets2/922/922_132291_000011_000001.wav|922|EN|organized special interests stepped in where the mob had failed.
+E:/Datasets/Datasets2/922/922_132291_000011_000003.wav|922|EN|there had always been pressure groups, but now they developed into a third arm of the government.
+E:/Datasets/Datasets2/922/922_132291_000012_000000.wav|922|EN|the old farm lobby was unbeatable.
+E:/Datasets/Datasets2/922/922_132291_000012_000001.wav|922|EN|the big farmers shaped the laws they wanted.
+E:/Datasets/Datasets2/922/922_132291_000012_000002.wav|922|EN|they convinced the little farmers it was for the good of all, and they made the story stick well enough to swing the farm vote.
+E:/Datasets/Datasets2/922/922_132291_000012_000003.wav|922|EN|they made the laws when it came to food and crops.
+E:/Datasets/Datasets2/922/922_132291_000013_000000.wav|922|EN|the last of the great lobbies was space, probably.
+E:/Datasets/Datasets2/922/922_132291_000013_000001.wav|922|EN|it was an accident that grew up so fast it never even knew it wasn't a real part of the government.
+E:/Datasets/Datasets2/922/922_132291_000013_000002.wav|922|EN|it developed during a period of chaos when another country called russia got the first hunk of metal above the atmosphere and when the representatives who had been picked for everything but their grasp of science and government went into panic over a myth of national prestige.
+E:/Datasets/Datasets2/922/922_132291_000014_000000.wav|922|EN|the space effort was turned over to the aircraft industry, which had never been able to manage itself successfully except under the stimulus of war or a threat of war.
+E:/Datasets/Datasets2/922/922_132291_000014_000001.wav|922|EN|the failing airplane industry became the space combine overnight, and nobody kept track of how big it was, except a few sharp operators.
+E:/Datasets/Datasets2/922/922_132291_000015_000000.wav|922|EN|they worked out a system of subcontracts that spread the profits so wide that hardly a company of any size in the country wasn't getting a share. thus a lot of patriotic, noble voters got their pay from companies in the lobby block and could be panicked by the lobby at the first mention of recession.
+E:/Datasets/Datasets2/922/922_132291_000016_000000.wav|922|EN|so space lobby took over completely in its own field.
+E:/Datasets/Datasets2/922/922_132291_000016_000001.wav|922|EN|it developed enough pressure to get whatever appropriations it wanted, even over presidential veto.
+E:/Datasets/Datasets2/922/922_132291_000016_000002.wav|922|EN|it created the only space experts, which meant that the men placed in government agencies to regulate it came from its own ranks.
+E:/Datasets/Datasets2/922/922_132291_000017_000000.wav|922|EN|the other lobbies learned a lot from space.
+E:/Datasets/Datasets2/922/922_132291_000018_000000.wav|922|EN|there had been a medical lobby long before, but it had been a conservative group, mostly concerned with protecting medical autonomy and ethics.
+E:/Datasets/Datasets2/922/922_132291_000018_000001.wav|922|EN|it also tried to prevent government control of treatment and payment, feeling that it couldn't trust the people to know where to stop.
+E:/Datasets/Datasets2/922/922_132291_000018_000002.wav|922|EN|but its history was a long series of retreats.
+E:/Datasets/Datasets2/922/922_132291_000019_000000.wav|922|EN|it fought what it called socialized medicine.
+E:/Datasets/Datasets2/922/922_132291_000019_000001.wav|922|EN|but the people wanted their troubles handled free-which meant by government spending, since that could be added to the national debt, and thus didn't seem to cost anything.
+E:/Datasets/Datasets2/922/922_132291_000019_000003.wav|922|EN|then quantity of treatment paid, rather than quality.
+E:/Datasets/Datasets2/922/922_132291_000019_000004.wav|922|EN|competence no longer mattered so much.
+E:/Datasets/Datasets2/922/922_132291_000019_000005.wav|922|EN|the lobby lost, but didn't know it-because the lowered standards of competence in the profession lowered the caliber of men running the political aspects of that profession as exemplified by the lobby.
+E:/Datasets/Datasets2/922/922_132291_000020_000000.wav|922|EN|it took a world-wide plague to turn the tide.
+E:/Datasets/Datasets2/922/922_132291_000020_000001.wav|922|EN|the plague began in old china; anything could start there, with more than a billion people huddled in one area and a few madmen planning to conquer the world.
+E:/Datasets/Datasets2/922/922_132291_000021_000000.wav|922|EN|it wiped out two billion people, depopulated africa and most of asia, and wrecked europe, leaving only america comparatively safe to take over.
+E:/Datasets/Datasets2/922/922_132291_000021_000001.wav|922|EN|an obscure scientist in one of the laboratories run by the medical lobby found a cure before the first waves of the epidemic hit america. rutherford ryan, then head of the lobby, made sure that medical lobby got all the credit.
+E:/Datasets/Datasets2/922/922_132291_000022_000000.wav|922|EN|by the time the world recovered, america ran it and the medical lobby was untouchable.
+E:/Datasets/Datasets2/922/922_132291_000022_000001.wav|922|EN|ryan made a deal with space lobby, and the two effectively ran the world.
+E:/Datasets/Datasets2/922/922_132291_000022_000002.wav|922|EN|none of the smaller lobbies could buck them, and neither could the government.
+E:/Datasets/Datasets2/922/922_132291_000023_000000.wav|922|EN|there was still a president and a congress, as there had been a senate under the roman caesars.
+E:/Datasets/Datasets2/922/922_132291_000023_000002.wav|922|EN|the real government had become a kind of oligarchy, as it always did after too much false democracy ruined the ideals of real and practical self rule.
+E:/Datasets/Datasets2/922/922_132291_000023_000003.wav|922|EN|a man belonged to his lobby, just as a serf had belonged to his feudal landlord.
+E:/Datasets/Datasets2/922/922_132291_000024_000001.wav|922|EN|maybe progress had been halted at about the level of nineteen eighty, but so long as the citizens didn't break the rules of their lobbies, they had very little to worry about.
+E:/Datasets/Datasets2/922/922_132291_000024_000002.wav|922|EN|for that, for security and the right not to think, most people were willing to leave well enough alone.
+E:/Datasets/Datasets2/922/922_132291_000025_000000.wav|922|EN|some rules seemed harsh, of course, such as the law that all operations had to be performed in lobby hospitals.
+E:/Datasets/Datasets2/922/922_132291_000025_000001.wav|922|EN|but that could be justified; it was the only safe kind of surgery and the only way to make sure there was no unsupervised experimentation, such as that which supposedly caused the plague.
+E:/Datasets/Datasets2/922/922_132291_000025_000002.wav|922|EN|the rule was now an absolute ethic of medicine.
+E:/Datasets/Datasets2/922/922_132291_000026_000000.wav|922|EN|feldman's father had stuck by the rule but had questioned it.
+E:/Datasets/Datasets2/922/922_132291_000026_000001.wav|922|EN|feldman learned not to question in medical school.
+E:/Datasets/Datasets2/922/922_132291_000026_000002.wav|922|EN|he scored second in medical ethics only to christina ryan.
+E:/Datasets/Datasets2/922/922_132291_000027_000000.wav|922|EN|he had never figured why she singled him out for her attentions, but he gloried in both those attentions and the results.
+E:/Datasets/Datasets2/922/922_132291_000027_000001.wav|922|EN|he became automatically a rising young man, the favorite of the daughter of the lobby president.
+E:/Datasets/Datasets2/922/922_132291_000027_000002.wav|922|EN|he went through internship without a sign of trouble. chris humored him in his desire to spend three years of practice in a poor section loaded with disease, and her father approved; such selfless dedication was the perfect image projection for a future son in law.
+E:/Datasets/Datasets2/922/922_132291_000027_000003.wav|922|EN|in return, he agreed to follow that period by becoming an administrator.
+E:/Datasets/Datasets2/922/922_132291_000028_000000.wav|922|EN|they were married in april and his office was ready in may, complete with a staff of eighty.
+E:/Datasets/Datasets2/922/922_132291_000028_000001.wav|922|EN|the publicity releases had gone out, and the public relations lobby that handled news and education was paid to begin the greatest build-up any young genius ever had.
+E:/Datasets/Datasets2/922/922_132291_000029_000000.wav|922|EN|they celebrated that, with a little party of some four hundred people and reporters at ryan's lodge in canada.
+E:/Datasets/Datasets2/922/922_132291_000030_000000.wav|922|EN|it was then that baxter shot himself.
+E:/Datasets/Datasets2/922/922_132291_000031_000000.wav|922|EN|baxter had been feldman's closest friend in the lobby.
+E:/Datasets/Datasets2/922/922_132291_000031_000001.wav|922|EN|he'd come along to handle press relations and had gotten romantic about the countryside, never having been out of a city before.
+E:/Datasets/Datasets2/922/922_132291_000031_000002.wav|922|EN|he hired a guide and went hunting, eighty miles beyond the last outpost of civilization.
+E:/Datasets/Datasets2/922/922_132291_000031_000003.wav|922|EN|somehow, he got his hand on a gun, though only guides were supposed to touch them, managed to overcome its safety devices, and then pulled the trigger with the gun pointed the wrong way.
+E:/Datasets/Datasets2/922/922_132291_000032_000000.wav|922|EN|chris, feldman and harnett from public relations had accompanied him on the trip.
+E:/Datasets/Datasets2/922/922_132291_000032_000001.wav|922|EN|they were sitting in a nearby car while feldman enjoyed the scenery, chris made further plans, and harnett gathered material.
+E:/Datasets/Datasets2/922/922_132291_000032_000002.wav|922|EN|there was also a photographer and writer, but they hadn't been introduced by name.
+E:/Datasets/Datasets2/922/922_132291_000033_000001.wav|922|EN|the man was moaning and scared, and he was bleeding profusely.
+E:/Datasets/Datasets2/922/922_132291_000033_000002.wav|922|EN|only a miracle had saved him from instant death.
+E:/Datasets/Datasets2/922/922_132291_000033_000003.wav|922|EN|the bullet had struck a rib, been deflected and robbed of some of its energy, and had barely reached the heart.
+E:/Datasets/Datasets2/922/922_132291_000033_000004.wav|922|EN|but it had pierced the pericardium, as best feldman could guess, and it could be fatal at any moment.
+E:/Datasets/Datasets2/922/922_132291_000034_000000.wav|922|EN|he'd reached for a probe without thinking.
+E:/Datasets/Datasets2/922/922_132291_000035_000001.wav|922|EN|he couldn't operate outside a hospital.
+E:/Datasets/Datasets2/922/922_132291_000035_000002.wav|922|EN|but they had no phone in the lodge where the guide lived and no way to summon an ambulance.
+E:/Datasets/Datasets2/922/922_132291_000035_000003.wav|922|EN|they'd have to drive baxter back in the car, which would almost certainly result in his death.
+E:/Datasets/Datasets2/922/922_132291_000036_000000.wav|922|EN|when feldman seemed uncertain, harnett had given his warning in a low but vehement voice.
+E:/Datasets/Datasets2/922/922_132291_000036_000001.wav|922|EN|"you touch him, dan, and i'll spread it in every one of our media.
+E:/Datasets/Datasets2/922/922_132291_000036_000004.wav|922|EN|there'd be a leak, with all the guides and others here, and we can't afford that.
+E:/Datasets/Datasets2/922/922_132291_000036_000006.wav|922|EN|but touch that wound and i'll crucify you."
+E:/Datasets/Datasets2/922/922_132291_000037_000001.wav|922|EN|she'd spent years making him the outlet for all her ambitions, denied because women were still only second rate members of medical lobby.
+E:/Datasets/Datasets2/922/922_132291_000037_000003.wav|922|EN|and she was probably genuinely shocked.
+E:/Datasets/Datasets2/922/922_132291_000038_000000.wav|922|EN|baxter groaned again and started to bleed more profusely.
+E:/Datasets/Datasets2/922/922_132291_000039_000001.wav|922|EN|feldman operated with a pocketknife sterilized in a bottle of expensive scotch and only anodyne tablets in place of anesthesia.
+E:/Datasets/Datasets2/922/922_132291_000039_000002.wav|922|EN|he got the bullet out and sewed up the wound with a bit of surgical thread he'd been using to tie up a torn good luck emblem.
+E:/Datasets/Datasets2/922/922_132291_000039_000004.wav|922|EN|chris swore harshly and beat her fists against the bole of a tree.
+E:/Datasets/Datasets2/922/922_132299_000003_000001.wav|922|EN|there were periods when fear clogged his throat and left him gasping with the need to scream and beat his cell walls.
+E:/Datasets/Datasets2/922/922_132299_000003_000002.wav|922|EN|there were also times when it didn't seem to matter, and when his only thoughts were for the villages and the plague.
+E:/Datasets/Datasets2/922/922_132299_000004_000000.wav|922|EN|they brought him the papers, where he was painted as a monster beside whom jack the ripper and albrecht delier were gentle amateurs.
+E:/Datasets/Datasets2/922/922_132299_000004_000001.wav|922|EN|they were trying to focus all fear and resentment on him.
+E:/Datasets/Datasets2/922/922_132299_000004_000002.wav|922|EN|maybe it was working. there were screaming crowds outside the jail, and the noise of their hatred was strong enough to carry through even the atmosphere of mars. but there were also signs that the lobby was worried, as if afraid that some attempt might still be made to rescue him.
+E:/Datasets/Datasets2/922/922_132299_000005_000000.wav|922|EN|he'd looked forward to the trip to the airport as a way of judging public reaction.
+E:/Datasets/Datasets2/922/922_132299_000005_000001.wav|922|EN|but apparently the lobby had no desire to test that. the guards led him up to the roof of the jail, where a rocket was waiting.
+E:/Datasets/Datasets2/922/922_132299_000005_000002.wav|922|EN|the landing space was too small for one of the station shuttles, but a little northport southport shuttle was parked there after what must have been a difficult set down.
+E:/Datasets/Datasets2/922/922_132299_000005_000003.wav|922|EN|the guards tested doc's manacles and forced him into the shuttle.
+E:/Datasets/Datasets2/922/922_132299_000006_000000.wav|922|EN|inside, chris was waiting, carrying an official automatic.
+E:/Datasets/Datasets2/922/922_132299_000006_000001.wav|922|EN|there was also a young pilot, looking nervous and unhappy.
+E:/Datasets/Datasets2/922/922_132299_000006_000002.wav|922|EN|he was muttering under his breath as the guards locked doc's legs to a seat and left.
+E:/Datasets/Datasets2/922/922_132299_000008_000000.wav|922|EN|"i tell you we're overweight with you.
+E:/Datasets/Datasets2/922/922_132299_000008_000001.wav|922|EN|i wasn't counting on three for the trip," the pilot protested.
+E:/Datasets/Datasets2/922/922_132299_000008_000002.wav|922|EN|"the only thing that will get this into orbit with the station is faith.
+E:/Datasets/Datasets2/922/922_132299_000008_000003.wav|922|EN|i'm loaded with every drop of fuel she'll hold and it still isn't enough."
+E:/Datasets/Datasets2/922/922_132299_000009_000000.wav|922|EN|"that's your problem," chris told him firmly.
+E:/Datasets/Datasets2/922/922_132299_000009_000001.wav|922|EN|"you've got your orders, and so have i up ship!"
+E:/Datasets/Datasets2/922/922_132299_000010_000001.wav|922|EN|chris had never been afraid to do what she felt she should.
+E:/Datasets/Datasets2/922/922_132299_000010_000002.wav|922|EN|the pilot stared at her doubtfully and finally turned back to his controls, still muttering.
+E:/Datasets/Datasets2/922/922_132299_000011_000000.wav|922|EN|the shuttle lifted sluggishly, but there was no great difficulty.
+E:/Datasets/Datasets2/922/922_132299_000011_000001.wav|922|EN|doc could see that there was even some fuel remaining when they slipped into the tube at the orbital station.
+E:/Datasets/Datasets2/922/922_132299_000011_000002.wav|922|EN|chris went out, and other guards came in to free him.
+E:/Datasets/Datasets2/922/922_132299_000012_000000.wav|922|EN|"so long, dr feldman," the pilot called softly as they led him out. then the guards shoved him through the airlock into the station.
+E:/Datasets/Datasets2/922/922_132299_000014_000000.wav|922|EN|he roamed the cabin until he found a little collapsible table.
+E:/Datasets/Datasets2/922/922_132299_000014_000001.wav|922|EN|he set the electron microscope up on that and plugged it in.
+E:/Datasets/Datasets2/922/922_132299_000014_000002.wav|922|EN|it seemed a shame that good equipment should be wasted along with his life.
+E:/Datasets/Datasets2/922/922_132299_000014_000003.wav|922|EN|he wondered if they would really throw it out into space with him.
+E:/Datasets/Datasets2/922/922_132299_000015_000000.wav|922|EN|he pushed a button on the call board over the table and asked for the steward.
+E:/Datasets/Datasets2/922/922_132299_000015_000001.wav|922|EN|there was a long wait, as if the procedure were being checked with some authority, but finally he received a surly acknowledgement. "steward.
+E:/Datasets/Datasets2/922/922_132299_000018_000001.wav|922|EN|he wouldn't cost them much, considering the distance he was going.
+E:/Datasets/Datasets2/922/922_132299_000018_000002.wav|922|EN|"bring me two complete dinners-one earth normal and one mars normal."
+E:/Datasets/Datasets2/922/922_132299_000020_000003.wav|922|EN|dr feldman, you have my apologies.
+E:/Datasets/Datasets2/922/922_132299_000020_000004.wav|922|EN|until you reach your destination, you are my passenger and entitled to every consideration of any other passenger except freedom of movement through the ship.
+E:/Datasets/Datasets2/922/922_132299_000020_000005.wav|922|EN|i am always available for legitimate complaints."
+E:/Datasets/Datasets2/922/922_132299_000022_000000.wav|922|EN|the steward brought his food in a thoroughly chastened manner.
+E:/Datasets/Datasets2/922/922_132299_000022_000001.wav|922|EN|he managed to find space for it and came to attention.
+E:/Datasets/Datasets2/922/922_132299_000023_000000.wav|922|EN|for a moment, as the smell of real steak reached him, doc regretted the fact that his metabolism had been switched.
+E:/Datasets/Datasets2/922/922_132299_000023_000002.wav|922|EN|a little wouldn't hurt him, though there was no proper nourishment in it.
+E:/Datasets/Datasets2/922/922_132299_000023_000003.wav|922|EN|he squeezed some of the gravy and bits of meat into one of his bottles, sticking to his purpose; then he fell to on the rest.
+E:/Datasets/Datasets2/922/922_132299_000023_000004.wav|922|EN|but after a few bites, it was queerly unsatisfactory.
+E:/Datasets/Datasets2/922/922_132299_000023_000005.wav|922|EN|the seemingly unappealing mars normal ragout suited his current tastes better, after all.
+E:/Datasets/Datasets2/922/922_132299_000024_000000.wav|922|EN|once the steward had cleared away the dishes, doc went to work.
+E:/Datasets/Datasets2/922/922_132299_000024_000001.wav|922|EN|it was better than wasting his time in dread.
+E:/Datasets/Datasets2/922/922_132299_000024_000002.wav|922|EN|he might even be able to leave some notes behind.
+E:/Datasets/Datasets2/922/922_132299_000025_000000.wav|922|EN|a gong sounded, and a red light warned him that acceleration was due.
+E:/Datasets/Datasets2/922/922_132299_000025_000001.wav|922|EN|he finished with his bottles, put them into the incubator, and piled into his bunk, swallowing one of the tablets of morphetal the ship furnished.
+E:/Datasets/Datasets2/922/922_132299_000026_000000.wav|922|EN|acceleration had ended, and a simple breakfast was waiting when he awoke.
+E:/Datasets/Datasets2/922/922_132299_000026_000002.wav|922|EN|he flipped the switch while reaching for the coffee.
+E:/Datasets/Datasets2/922/922_132299_000028_000001.wav|922|EN|he cut off the switch and glanced at the clock on the wall.
+E:/Datasets/Datasets2/922/922_132299_000028_000002.wav|922|EN|there were less than eleven hours left to him.
+E:/Datasets/Datasets2/922/922_132299_000029_000001.wav|922|EN|there was neither friendliness nor hostility in his glance.
+E:/Datasets/Datasets2/922/922_132299_000029_000002.wav|922|EN|his words were courteous as doc motioned toward the tray of breakfast.
+E:/Datasets/Datasets2/922/922_132299_000030_000001.wav|922|EN|his voice was apologetic when he began.
+E:/Datasets/Datasets2/922/922_132299_000030_000002.wav|922|EN|"this is a personal matter which i perhaps have no right to bring up.
+E:/Datasets/Datasets2/922/922_132299_000030_000003.wav|922|EN|but my wife is greatly worried about this plague.
+E:/Datasets/Datasets2/922/922_132299_000030_000005.wav|922|EN|the ship physician believes mrs everts may have the plague, but isn't sure of the symptoms.
+E:/Datasets/Datasets2/922/922_132299_000031_000001.wav|922|EN|apparently there was another man who placed his patients above anything else, though he was probably meticulous about obeying all actual rules.
+E:/Datasets/Datasets2/922/922_132299_000031_000002.wav|922|EN|there was no law against listening to a pariah, at least.
+E:/Datasets/Datasets2/922/922_132299_000032_000000.wav|922|EN|"when did she have selznik's migraine?" he asked.
+E:/Datasets/Datasets2/922/922_132299_000033_000001.wav|922|EN|we went through it together, shortly after having our metabolism switched during the food shortage of 'eighty eight."
+E:/Datasets/Datasets2/922/922_132299_000034_000000.wav|922|EN|doc felt carefully at the base of the captain's skull; the swelling was there.
+E:/Datasets/Datasets2/922/922_132299_000034_000001.wav|922|EN|he asked a few questions, but there could be no doubt.
+E:/Datasets/Datasets2/922/922_132299_000035_000000.wav|922|EN|"both of you must have it, captain, though it won't mature for another year.
+E:/Datasets/Datasets2/922/922_132299_000037_000001.wav|922|EN|but everts wasn't the sort to dicker even for his life.
+E:/Datasets/Datasets2/922/922_132299_000037_000004.wav|922|EN|perhaps if i could leave a few notes for your physician-"
+E:/Datasets/Datasets2/922/922_132299_000038_000002.wav|922|EN|i have orders to burn out your cabin when you leave.
+E:/Datasets/Datasets2/922/922_132299_000038_000003.wav|922|EN|but thank you." he got to his feet and left as quietly and erectly as he had entered.
+E:/Datasets/Datasets2/922/922_132299_000039_000001.wav|922|EN|he paced his cabin slowly, reading out the hours while his eyes lingered on the little bottle of cultures.
+E:/Datasets/Datasets2/922/922_132299_000039_000003.wav|922|EN|there was half an hour left when he began opening the little bottles and making his films.
+E:/Datasets/Datasets2/922/922_132299_000040_000000.wav|922|EN|he was still not finished when steps echoed down the hall, but he was reasonably sure of his results.
+E:/Datasets/Datasets2/922/922_132299_000040_000001.wav|922|EN|the bug could not grow in earth normal tissue.
+E:/Datasets/Datasets2/922/922_132299_000041_000001.wav|922|EN|one of them, dressed in a spacesuit, held out another suit to him.
+E:/Datasets/Datasets2/922/922_132299_000042_000000.wav|922|EN|doc forced his hands to steadiness with foolish pride and began climbing into the suit.
+E:/Datasets/Datasets2/922/922_132299_000042_000001.wav|922|EN|he reached for the helmet, but the man shook his head, pointing to the oxygen gauge.
+E:/Datasets/Datasets2/922/922_132299_000042_000002.wav|922|EN|there would be exactly one hour's supply of oxygen when he was thrown out and it still lacked five minutes of the deadline.
+E:/Datasets/Datasets2/922/922_132299_000043_000001.wav|922|EN|the spacesuited man climbed into it and began strapping down so that the rush of air would not sweep him outward when the other seal was released.
+E:/Datasets/Datasets2/922/922_132299_000044_000000.wav|922|EN|doc had saved one bracky weed.
+E:/Datasets/Datasets2/922/922_132299_000044_000001.wav|922|EN|now he raised it to his lips, fumbling for a light.
+E:/Datasets/Datasets2/922/922_132299_000045_000000.wav|922|EN|everts stepped forward and flipped a lighter.
+E:/Datasets/Datasets2/922/922_132299_000046_000000.wav|922|EN|"better change your metabolism back to earth normal, captain everts," he said, and his voice was so normal that he hardly recognized it.
+E:/Datasets/Datasets2/922/922_132299_000048_000000.wav|922|EN|it was ridiculous, impossible, and yet there was a curious relief at the formality of it.
+E:/Datasets/Datasets2/922/922_132299_000048_000001.wav|922|EN|it was like something from a play, too unreal to affect his life.
+E:/Datasets/Datasets2/922/922_132299_000049_000000.wav|922|EN|everts nodded to the man holding the helmet.
+E:/Datasets/Datasets2/922/922_132299_000049_000001.wav|922|EN|doc dropped his bracky weed and felt the helmet snap down.
+E:/Datasets/Datasets2/922/922_132299_000049_000002.wav|922|EN|a hiss of oxygen reached him and the suit ballooned out.
+E:/Datasets/Datasets2/922/922_132299_000049_000003.wav|922|EN|there was no gravity; the two men handed him up easily to the one in the airlock while the inner seal began to close.
+E:/Datasets/Datasets2/922/922_132299_000050_000000.wav|922|EN|there was still ten seconds to go, according to the big chronometer that had been installed in the lock.
+E:/Datasets/Datasets2/922/922_132299_000050_000001.wav|922|EN|the spaceman used it in tying the sack of possessions firmly to doc's suit.
+E:/Datasets/Datasets2/922/922_132299_000051_000001.wav|922|EN|the man caught doc and held him against the outer seal.
+E:/Datasets/Datasets2/922/922_132299_000051_000003.wav|922|EN|four seconds ... three ... two....
+E:/Datasets/Datasets2/922/922_132299_000052_000001.wav|922|EN|the spaceman's face swung around in surprise.
+E:/Datasets/Datasets2/922/922_132299_000054_000000.wav|922|EN|the outer seal snapped open and the spaceman heaved.
+E:/Datasets/Datasets2/922/922_132299_000054_000001.wav|922|EN|air exploded outwards, and doc went with it.
+E:/Datasets/Datasets2/922/922_132299_000054_000002.wav|922|EN|he was alone in space, gliding away from the ship, with oxygen hissing softly through the valve and ticking away his life.
+E:/Datasets/Datasets2/922/922_132300_000004_000001.wav|922|EN|it was sheer stupidity, since nothing could have been more merciful than to lose this reality.
+E:/Datasets/Datasets2/922/922_132300_000004_000002.wav|922|EN|but the will to be himself was stronger than logic.
+E:/Datasets/Datasets2/922/922_132300_000004_000003.wav|922|EN|and bit by bit, he forced the fear and horror away from him until he could examine his situation.
+E:/Datasets/Datasets2/922/922_132300_000005_000000.wav|922|EN|he was spinning slowly, so that stars ahead of him seemed to crawl across his view.
+E:/Datasets/Datasets2/922/922_132300_000005_000001.wav|922|EN|the ship was retreating from him already hundreds of yards away.
+E:/Datasets/Datasets2/922/922_132300_000005_000002.wav|922|EN|mars was a shrunken pill far away.
+E:/Datasets/Datasets2/922/922_132300_000006_000000.wav|922|EN|then something blinked to one side.
+E:/Datasets/Datasets2/922/922_132300_000007_000000.wav|922|EN|a little ship was less than three hundred yards away.
+E:/Datasets/Datasets2/922/922_132300_000007_000002.wav|922|EN|now his spin brought him around to face it, and he saw it was parallelling his course.
+E:/Datasets/Datasets2/922/922_132300_000008_000000.wav|922|EN|it meant someone was trying to save him.
+E:/Datasets/Datasets2/922/922_132300_000009_000000.wav|922|EN|he flailed his arms and beat his legs together, senselessly trying to force himself closer, while trying to guess who could have taken the chance.
+E:/Datasets/Datasets2/922/922_132300_000009_000002.wav|922|EN|there wasn't that much free money in the villages.
+E:/Datasets/Datasets2/922/922_132300_000010_000000.wav|922|EN|something flashed a hot blue, and the little ship leaped forward. whoever was handling it knew nothing about piloting.
+E:/Datasets/Datasets2/922/922_132300_000010_000001.wav|922|EN|it picked up too much speed at too great an angle.
+E:/Datasets/Datasets2/922/922_132300_000011_000000.wav|922|EN|again blue spurts came, but this time matters were even worse.
+E:/Datasets/Datasets2/922/922_132300_000011_000001.wav|922|EN|then there was a long wait before a third try was made.
+E:/Datasets/Datasets2/922/922_132300_000011_000003.wav|922|EN|it would miss him by a good hundred feet, but it was probably the best the amateur pilot could do.
+E:/Datasets/Datasets2/922/922_132300_000011_000004.wav|922|EN|the ship drifted closer, but to one side.
+E:/Datasets/Datasets2/922/922_132300_000011_000005.wav|922|EN|it would soon pass him completely.
+E:/Datasets/Datasets2/922/922_132300_000012_000000.wav|922|EN|a spacesuited figure suddenly appeared in the tiny airlock, holding a coil of rope.
+E:/Datasets/Datasets2/922/922_132300_000012_000003.wav|922|EN|it would pass within ten feet-and might as well have been ten miles for all the good it would do him.
+E:/Datasets/Datasets2/922/922_132300_000013_000000.wav|922|EN|every film he had seen on space seemed to form a mad jumble in his mind, but he seized on the first idea he could remember.
+E:/Datasets/Datasets2/922/922_132300_000013_000001.wav|922|EN|he inhaled deeply and yanked the oxygen tank free.
+E:/Datasets/Datasets2/922/922_132300_000013_000002.wav|922|EN|an automatic seal on the suit cut off the connection.
+E:/Datasets/Datasets2/922/922_132300_000013_000003.wav|922|EN|he aimed the hissing bottle, fumbling for the manual valve.
+E:/Datasets/Datasets2/922/922_132300_000014_000001.wav|922|EN|it kicked him toward the rope slightly, but most of the energy was wasted in setting him into a wilder spin.
+E:/Datasets/Datasets2/922/922_132300_000014_000002.wav|922|EN|he blinked, trying to spot the rope.
+E:/Datasets/Datasets2/922/922_132300_000015_000001.wav|922|EN|this time he threw the bottle away from it.
+E:/Datasets/Datasets2/922/922_132300_000015_000002.wav|922|EN|it added spin to his vertical axis, but the rope came into view within arm's reach.
+E:/Datasets/Datasets2/922/922_132300_000016_000000.wav|922|EN|he grasped it, just as his lungs seemed about to burst.
+E:/Datasets/Datasets2/922/922_132300_000016_000001.wav|922|EN|he couldn't hold on long enough to tie the rope....
+E:/Datasets/Datasets2/922/922_132300_000017_000000.wav|922|EN|his lungs gave up suddenly, collapsing and then sucking in greedily. clean air rushed in, letting his head clear.
+E:/Datasets/Datasets2/922/922_132300_000017_000001.wav|922|EN|he'd forgotten that the inflated suit held enough oxygen for several minutes.
+E:/Datasets/Datasets2/922/922_132300_000018_000000.wav|922|EN|his body struck the edge of the airlock and a hand jerked him inside. the outer seal was slammed shut and locked, and there was a hiss of air entering.
+E:/Datasets/Datasets2/922/922_132300_000019_000000.wav|922|EN|he threw back his helmet just as chris ryan jerked hers off.
+E:/Datasets/Datasets2/922/922_132300_000020_000000.wav|922|EN|her voice shook almost hysterically.
+E:/Datasets/Datasets2/922/922_132300_000021_000000.wav|922|EN|"i liked the air out there better," he told her bitterly.
+E:/Datasets/Datasets2/922/922_132300_000022_000000.wav|922|EN|"i came along to see you killed, as you know very well.
+E:/Datasets/Datasets2/922/922_132300_000022_000001.wav|922|EN|saving you wasn't in my orders."
+E:/Datasets/Datasets2/922/922_132300_000023_000000.wav|922|EN|he grunted and reached for the handle that would release the outer lock. "better get back inside if you don't want to blow out with me."
+E:/Datasets/Datasets2/922/922_132300_000024_000000.wav|922|EN|"it's up to you, dan," she told him, and there was all the sincerity in the world in her blue eyes.
+E:/Datasets/Datasets2/922/922_132300_000026_000000.wav|922|EN|"it was all true." anger began to grow in her eyes.
+E:/Datasets/Datasets2/922/922_132300_000026_000002.wav|922|EN|if you don't care about me, you might consider the people dying of the plague who need you!"
+E:/Datasets/Datasets2/922/922_132300_000027_000000.wav|922|EN|she'd played her trump, and it took the round.
+E:/Datasets/Datasets2/922/922_132300_000029_000000.wav|922|EN|she held out a copy of a space radiogram, addressed to mrs d e everts, and signed by one of the best doctors on the lobby board of directors.
+E:/Datasets/Datasets2/922/922_132300_000030_000002.wav|922|EN|repeat topsecret. martian fever incubates fourteen years, believed highly fatal.
+E:/Datasets/Datasets2/922/922_132300_000030_000003.wav|922|EN|no cure, research beginning immediately.
+E:/Datasets/Datasets2/922/922_132300_000030_000004.wav|922|EN|penalty violation topsecret, death all concerned.
+E:/Datasets/Datasets2/922/922_132300_000031_000000.wav|922|EN|"mrs everts rates a topsecret break?" doc commented dryly.
+E:/Datasets/Datasets2/922/922_132300_000032_000000.wav|922|EN|"she's the daughter of elmers of space lobby!" chris answered.
+E:/Datasets/Datasets2/922/922_132300_000032_000001.wav|922|EN|she pointed to the message, underlining words with her finger.
+E:/Datasets/Datasets2/922/922_132300_000033_000001.wav|922|EN|"i can't see how such a reformed young noblewoman calmly walked over and stole a life raft.
+E:/Datasets/Datasets2/922/922_132300_000033_000002.wav|922|EN|i can't see how your brilliant mind concocted this whole scheme in almost no time. and to be honest, i can't even see why medical lobby decided to save me at the last minute and sent you to do the job.
+E:/Datasets/Datasets2/922/922_132300_000033_000003.wav|922|EN|you didn't have to spy out knowledge from me.
+E:/Datasets/Datasets2/922/922_132300_000033_000004.wav|922|EN|i've been trying all along to get it to your research division."
+E:/Datasets/Datasets2/922/922_132300_000034_000000.wav|922|EN|she sighed and dropped onto a little seat.
+E:/Datasets/Datasets2/922/922_132300_000035_000003.wav|922|EN|that shuttle pilot was found in a routine check, stowed away on the life raft.
+E:/Datasets/Datasets2/922/922_132300_000035_000004.wav|922|EN|i was with captain everts when he was found, so i discovered how to get into the raft.
+E:/Datasets/Datasets2/922/922_132300_000035_000009.wav|922|EN|i just used it, hoping i could reach you."
+E:/Datasets/Datasets2/922/922_132300_000036_000000.wav|922|EN|as always her story had a convincing element she shouldn't have known. the pilot's farewell, addressing him as dr feldman, had been too low for her to hear, but it was something that fitted her story.
+E:/Datasets/Datasets2/922/922_132300_000036_000001.wav|922|EN|it was probably a deliberate clue to give him hope, to assure him the villages were still trying.
+E:/Datasets/Datasets2/922/922_132300_000037_000000.wav|922|EN|"and your motive-your real motive?" he insisted.
+E:/Datasets/Datasets2/922/922_132300_000038_000000.wav|922|EN|she swore at him, then began ripping off the spacesuit.
+E:/Datasets/Datasets2/922/922_132300_000038_000001.wav|922|EN|she turned her back, pulling a thin blouse down from her neck.
+E:/Datasets/Datasets2/922/922_132300_000038_000002.wav|922|EN|he stared, then reached out to touch the lump there.
+E:/Datasets/Datasets2/922/922_132300_000039_000001.wav|922|EN|and you've decided your precious lobby won't save you?"
+E:/Datasets/Datasets2/922/922_132300_000040_000000.wav|922|EN|she dropped her eyes, then raised them to meet his defiantly.
+E:/Datasets/Datasets2/922/922_132300_000040_000002.wav|922|EN|dad caught it, too, and it must be close to the time for him.
+E:/Datasets/Datasets2/922/922_132300_000040_000003.wav|922|EN|he switched to mars normal when he was a liaison agent and never changed back.
+E:/Datasets/Datasets2/922/922_132300_000041_000000.wav|922|EN|feldman was out of his suit and at the control panel.
+E:/Datasets/Datasets2/922/922_132300_000041_000001.wav|922|EN|there was a manual lever, which chris must have used before.
+E:/Datasets/Datasets2/922/922_132300_000041_000002.wav|922|EN|it might work out here where there was room to maneuver and nothing to hit.
+E:/Datasets/Datasets2/922/922_132300_000041_000003.wav|922|EN|but trying to make a landing was going to be different.
+E:/Datasets/Datasets2/922/922_132300_000043_000002.wav|922|EN|they've started research too late and they'll be under so much pressure that the real brains won't have a chance.
+E:/Datasets/Datasets2/922/922_132300_000043_000003.wav|922|EN|the topsecret stuff looks bad for research.
+E:/Datasets/Datasets2/922/922_132300_000043_000005.wav|922|EN|it works in culture bottles, but it may fail in person.
+E:/Datasets/Datasets2/922/922_132300_000043_000006.wav|922|EN|when i'm convinced i'm safe with you, i may tell you about it."
+E:/Datasets/Datasets2/922/922_132300_000044_000000.wav|922|EN|"oh." her voice was low.
+E:/Datasets/Datasets2/922/922_132300_000044_000002.wav|922|EN|"i suppose i can understand why you hate me, dan."
+E:/Datasets/Datasets2/922/922_132300_000045_000002.wav|922|EN|tomorrow maybe, but not now.
+E:/Datasets/Datasets2/922/922_132300_000045_000003.wav|922|EN|shut up and let me see if i can figure out how to land this thing."
+E:/Datasets/Datasets2/922/922_132300_000046_000000.wav|922|EN|he found that the fuel tanks were nearly full, but that still didn't leave much margin.
+E:/Datasets/Datasets2/922/922_132300_000046_000002.wav|922|EN|he had to reach the wastelands away from any of the shuttle ports.
+E:/Datasets/Datasets2/922/922_132300_000046_000003.wav|922|EN|they had no aspirators, however, and they couldn't cover much territory in the spacesuits they would have to use.
+E:/Datasets/Datasets2/922/922_132300_000047_000000.wav|922|EN|he jockeyed the ship around by trial and error, studying the manual that was lying prominently on the control panel.
+E:/Datasets/Datasets2/922/922_132300_000047_000001.wav|922|EN|according to the booklet, the ship was simple to operate.
+E:/Datasets/Datasets2/922/922_132300_000047_000002.wav|922|EN|it was self leveling in an atmosphere, and automatic flare computers were supposed to make it possible for an amateur to judge the rate of descent near the surface.
+E:/Datasets/Datasets2/922/922_132300_000047_000003.wav|922|EN|it looked reassuring-and was probably written with that in mind.
+E:/Datasets/Datasets2/922/922_132300_000048_000000.wav|922|EN|finally he reached for the control, hoping he'd figured his landing orbit reasonably well by simple logic.
+E:/Datasets/Datasets2/922/922_132300_000048_000001.wav|922|EN|he smoothed it out in the following hours as he watched the markings on mars.
+E:/Datasets/Datasets2/922/922_132300_000048_000002.wav|922|EN|when they were near turnover point, he began cranking the little gyroscope to swing the ship.
+E:/Datasets/Datasets2/922/922_132300_000048_000003.wav|922|EN|it saved fuel to turn without power, and he wasn't sure he could have turned accurately by blasting.
+E:/Datasets/Datasets2/922/922_132300_000049_000000.wav|922|EN|he was gaining some proficiency, however, he felt.
+E:/Datasets/Datasets2/922/922_132300_000049_000001.wav|922|EN|but now he had to waste fuel and ruin his orbit again.
+E:/Datasets/Datasets2/922/922_132300_000049_000002.wav|922|EN|there was no way to practice maneuvering without actually doing so.
+E:/Datasets/Datasets2/922/922_132300_000050_000000.wav|922|EN|in the end, he compromised, leaving a small margin for a bad landing that would require a second attempt, but with less practice than he wanted.
+E:/Datasets/Datasets2/922/922_132300_000051_000000.wav|922|EN|he had located jake's village through the little telescope when he finally reached for the main blast control.
+E:/Datasets/Datasets2/922/922_132300_000051_000001.wav|922|EN|the thin haze of mars' atmosphere came rushing up, while the blast lashed out.
+E:/Datasets/Datasets2/922/922_132300_000052_000000.wav|922|EN|he turned to the flare computer and back to what he could see through the quartz viewport.
+E:/Datasets/Datasets2/922/922_132300_000053_000000.wav|922|EN|the computer seemed to work as it should.
+E:/Datasets/Datasets2/922/922_132300_000053_000001.wav|922|EN|the speed was within acceptable limits.
+E:/Datasets/Datasets2/922/922_132300_000053_000002.wav|922|EN|he gave up trying to see the ground and was forced to trust the machinery designed for amateur pilots.
+E:/Datasets/Datasets2/922/922_132300_000053_000003.wav|922|EN|the flare bloomed, and he yanked down on the little lever.
+E:/Datasets/Datasets2/922/922_132300_000054_000001.wav|922|EN|they hit the ground, bounced twice, and turned over.
+E:/Datasets/Datasets2/922/922_132300_000054_000002.wav|922|EN|the ship was a mess when feldman freed himself from the elastic straps of the seat.
+E:/Datasets/Datasets2/922/922_132300_000054_000003.wav|922|EN|chris had shrieked as they hit, but she was unbuckling herself now.
+E:/Datasets/Datasets2/922/922_132300_000055_000000.wav|922|EN|he threw her her spacesuit and one of the emergency bottles of oxygen from the rack.
+E:/Datasets/Datasets2/922/922_132300_000055_000002.wav|922|EN|we've sprung a leak and the pressure's dropping."
+E:/Datasets/Datasets2/922/922_132300_000056_000000.wav|922|EN|they were halfway to the village when a dozen tractors came racing up and jake piled out of the lead one to drag the two in with him.
+E:/Datasets/Datasets2/922/922_132300_000057_000000.wav|922|EN|"heard about it from the broadcasts and figured you might land around here.
